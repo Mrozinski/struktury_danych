@@ -27,7 +27,7 @@ class LinkedLit:
             self.tail = new_node
 
 
-    def remove_at_begining():
+    def remove_at_begining(self):
         self.head = self.head.next
 
     def remove_at_end():
